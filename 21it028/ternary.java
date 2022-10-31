@@ -6,7 +6,7 @@ class ternary
 		int b=5;
 		int c;
 		
-		c = (a!=b)?a:5;
+		c = (a!=b)?a:b;
 		System.out.println(c);
 }
 }
