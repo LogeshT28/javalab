@@ -8,11 +8,11 @@ public class Even
 		if(a%2==0)
 		{
 				
-			System.out.println(a+" is even NUmber");
+			System.out.println(a+" is even Number");
 		}
 		else
 		{
-			System.out.println(a+" is odd NUmber");
+			System.out.println(a+" is odd Number");
 		}
 	}
 	}
